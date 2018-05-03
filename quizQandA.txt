@@ -1,0 +1,113 @@
+The Cascades Quiz!
+
+
+Q1: Which of these volcanoes is the highest peak in the Cascades?
+    * Mt Rainier    (14,411')
+    - Mt Shasta     (14,179')
+    - Mt Saint Helens (8,365')
+    - Mt Hood (11,249')
+    - Mt Baker (10,781')
+
+      https://pixabay.com/en/mount-rainier-landscape-1740525/
+
+Q2: The last major eruption of Mt Saint Helens occurred in what year?
+    * 1980 (May 18, killing 57 people, losing 1,314' in elevation)
+    - 1972
+    - 2010
+    - 1995
+    - 1999
+
+      https://www.flickr.com/photos/wastatednr/4607166057
+
+Q3: The Cascades are located in all of the following states/provinces EXCEPT:
+    * Idaho (The Cascades run 700 miles from BC in the north to California in the south)
+    - British Columbia
+    - Washington
+    - Oregon
+    - California
+
+      https://commons.wikimedia.org/wiki/File:Cascaderangemap.jpg
+
+Q4: The world record for annual snowfall occurred in 1998-99 in which of the following locations?
+    * Mt Baker Ski Area (1,140")
+    - Paradise, Mt Rainier (held the record prior)
+    - Snoqualmie Pass
+    - Crater Lake
+    - Mt Shasta
+
+      https://pixabay.com/en/mountains-landscape-moon-nature-1548236/
+
+Q5: The Cascades were formed by the subduction of which tectonic plate under the North American Plate?
+    * Juan de Fuca Plate (The Juan de Fuca oceanic plate is pushed beneath the North American Plate where high temperatures and pressures lead to the creation of magma, generating the volcanic activity of the Cascade Range)
+    - Nazca Plate
+    - Eurasian Plate
+    - Cocos Plate
+    - Indian Plate
+
+      https://commons.wikimedia.org/wiki/File:Cascade_Range_related_plate_tectonics-en.svg
+
+Q6: Mt Rainier, Mt Hood, Mt St Helens, and Mt Baker were named during a 1792 expedition led by whom?
+    * George Vancouver (Bristish Royal Navy Captain - led a 4 and a half year voyage around the world. His charts of the PNW coast were used by navigators for generations)
+    - James Cook
+    - Meriwether Lewis
+    - William Clark
+    - John Jacob Astor
+
+      https://en.wikipedia.org/wiki/George_Vancouver#/media/File:Probably_George_Vancouver_from_NPG.jpg
+
+Q7: Which of the following are Native American names for Mt Rainier, Mt St Helens, and Mt Hood, respectively?
+    * Tahoma, Loowit, and Wy'east ( Rainier also Tacoma; St Helens also Louwala-Clough; although different tribes had different names)
+    - Klickitat, Denali, and Youxlokes
+    - Kulshan, Seekseekqua, and Pahto
+    - Chintimini, Walmsini, and Ako-Yet
+    - Puyallup, Sequim, and Snoqualmie
+
+      https://pixabay.com/en/mount-hood-oregon-volcano-72366/
+
+Q8: With a maximum depth of 1,949' deep, this lake is the deepest in the U.S:
+    * Crater Lake (formed around 7,700 years ago by the collapse of Mount Mazama)
+    - Lake Washington
+    - Klamath Lake
+    - Snow Lake
+    - Lake Chelan
+
+      https://pixabay.com/en/crater-lake-oregon-mountains-winter-1751456/
+
+Q9: Which trail, running from Mexico to Canada, follows the entire length of the Cascade Range?
+    * The Pacific Crest Trail (the trail is 2,659 miles long and also follows the Sierra Nevada mountain range in California)
+    - The Appalachian Trail
+    - The Continental Divide Trail
+    - The Great Western Tail
+    - The Oregon Trail
+
+      https://commons.wikimedia.org/wiki/File:Pacific_Crest_Trail_Mount_Rainier.jpg
+
+Q10: Which of the following was the first established route through the Cascade Range, forming the final overland connection of the Oregon Trail?
+    * The Barlow Road (Built in 1846 it allowed travelers to avoid floating the treacherous rapids of the Columbia River)
+    - The Northwest Passage
+    - The Santiam Wagon Road
+    - The California Trail
+    - The Bozeman Trail
+
+        https://commons.wikimedia.org/wiki/File:Barlow_Road_segment_near_Wamic_Oregon.jpg
+
+
+Sources:
+https://en.wikipedia.org/wiki/Cascade_Range
+https://en.wikipedia.org/wiki/George_Vancouver
+https://en.wikipedia.org/wiki/Vancouver_Expedition
+https://en.wikipedia.org/wiki/Crater_Lake
+http://www.oregonlive.com/travel/index.ssf/2017/02/the_native_names_of_pacific_no.html
+https://en.wikipedia.org/wiki/Pacific_Crest_Trail
+https://en.wikipedia.org/wiki/Route_of_the_Oregon_Trail
+https://en.wikipedia.org/wiki/Barlow_Road
+
+
+Fonts:
+
+https://fonts.google.com/specimen/Lobster+Two?selection.family=Lobster+Two:400,700|Roboto:400,700
+
+<link href="https://fonts.googleapis.com/css?family=Lobster+Two:400,700|Roboto:400,700" rel="stylesheet">
+
+font-family: 'Lobster Two', cursive;
+font-family: 'Roboto', sans-serif;

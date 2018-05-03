@@ -1,0 +1,17 @@
+Clicking "start" button causes first question and answers to render
+
+Selecting an answer choice will be evaluated as correct or incorrect
+
+Incorrect or correct answer will trigger corresponding text and color changes
+
+Correct choices will increment score
+
+Selecting an answer will display the correct choice, explanation, img, and next button
+
+Clicking the next button will bring up the next question
+
+Clicking the next button on the final question will bring up the final page
+
+The final page will display the total score, classification, and start over button
+
+The start over button will reload the app from the beginning
